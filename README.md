@@ -18,6 +18,6 @@ pnpm i
 
 ## Steps to reproduce
 
-1. disable all extensinon except volar
-2. move `src/componets/HelloWorld.vue` to `src/HelloWorld.vue`
+1. disable all extensions except volar
+2. move `src/components/HelloWorld.vue` to `src/HelloWorld.vue`
 3. checkout [App.vue](./src/App.vue), the import remain the same.
